@@ -12,5 +12,5 @@ def reduce(array, starting_value=nil)
   if starting_value
     num1 = starting_value
   else
-    num1 = 
+    num1 = array[0]
 end
