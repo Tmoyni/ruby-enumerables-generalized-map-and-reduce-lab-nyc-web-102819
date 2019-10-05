@@ -3,5 +3,6 @@ def map(array)
   i = 0 
   while 1 < array.length
     new.push(yield(array[i]))
+    i =+
   end
 end
