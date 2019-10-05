@@ -8,4 +8,6 @@ def map(array)
   new
 end
 
-def 
+def reduce
+  
+end
