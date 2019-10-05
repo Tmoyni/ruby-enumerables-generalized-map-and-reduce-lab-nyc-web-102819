@@ -1,4 +1,4 @@
 def map(array) 
   new = []
-  counter = 0 
+  i = 0 
 end
